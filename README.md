@@ -6,4 +6,4 @@
 
 **I've Worked on Front-end and back-end side, i've basic understanding of backend and REST API**
 
-[View Live](/)
+[View Live](https://canvas-whiteboardapp.netlify.app/)
