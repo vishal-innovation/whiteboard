@@ -1,0 +1,27 @@
+.bgImg {
+  background-image: url(../../Assets/bg.png);
+  background-color: #fff;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.loginText {
+  text-decoration: none;
+  color: #1b4858;
+  padding: 4px 9px;
+  border-radius: 6px;
+  background-color: lime;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+}
+.loginText:hover {
+  color: #fff;
+  background-color: cadetblue;
+}

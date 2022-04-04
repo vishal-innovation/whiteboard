@@ -1,0 +1,68 @@
+.input-label {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  color: black;
+}
+.error {
+  color: red;
+}
+.input-box {
+  outline: none;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 12px 0;
+  margin-bottom: 15px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #303030;
+}
+.input-box,
+.register {
+  padding: 4px 0;
+}
+
+.login-btn {
+  border-radius: 5px;
+  padding: 14px;
+  outline: none;
+  border: none;
+  background-color: #142850;
+  color: #fff;
+  width: 100%;
+  cursor: pointer;
+}
+.bottom-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.bottom-content,
+.register-txt {
+  margin-top: 15px;
+}
+.bc-text {
+  font-weight: 500;
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+.bc-text,
+.reg-txt {
+  margin-bottom: 0px;
+}
+.refer-btn {
+  font-size: 14px;
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+}
+
+.emailvalid {
+  display: block;
+  color: red;
+}
+.email-notvalid {
+  display: none;
+}
